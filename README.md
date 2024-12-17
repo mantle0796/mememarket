@@ -3,7 +3,7 @@
 yarn install 
 npm install
 
-Add this token as manually into your wallet MM
+Add this token as manually into your wallet MEME
 
 Contract Address = 0xfC6b641A00505906F6395D36A9118FF71676AD67
 [Verify Contract Here](https://testnet.aiascan.com/token/0xfC6b641A00505906F6395D36A9118FF71676AD67)
